@@ -7,5 +7,6 @@ fun main() {
     clyde2.walk()
     println(binnie)
     println(clyde)
+    println(clyde2)
     //add a new comment
 }
